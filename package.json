@@ -1,0 +1,19 @@
+{
+  "name": "cuaderno-binario",
+  "version": "1.0.0",
+  "description": "Cuaderno digital de cálculo binario (web estática)",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./css/styles.css --minify",
+    "watch": "tailwindcss -i ./src/input.css -o ./css/styles.css --watch"
+  },
+  "devDependencies": {
+    "@fontsource/caveat": "^5.3.0",
+    "@fontsource/fira-code": "^5.3.0",
+    "@fontsource/indie-flower": "^5.3.0",
+    "@fontsource/inter": "^5.3.0",
+    "@fontsource/special-elite": "^5.3.0",
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "tailwindcss": "3.4"
+  },
+  "private": true
+}
