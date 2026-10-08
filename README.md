@@ -13,7 +13,7 @@
   <a href="#-características"><img src="https://img.shields.io/badge/Estado-Completo-10b981?style=flat-square" alt="Estado"/></a>
   <a href="#-tecnologías"><img src="https://img.shields.io/badge/Stack-HTML5_·_CSS3_·_JS-e34f26?style=flat-square" alt="Stack"/></a>
   <a href="#-cómo-usar"><img src="https://img.shields.io/badge/Instalación-Ninguna-3b82f6?style=flat-square" alt="Sin instalación"/></a>
-  <a href="#-licencia"><img src="https://img.shields.io/badge/Uso-Educativo_libre-8b5cf6?style=flat-square" alt="Licencia"/></a>
+  <a href="#-licencia"><img src="https://img.shields.io/badge/License-AGPL--3.0-blue?style=flat-square" alt="Licencia AGPL-3.0"/></a>
 </p>
 
 <p align="center">
@@ -363,9 +363,19 @@ Ideas opcionales para evolucionar el cuaderno (no implementadas necesariamente):
 
 ## Licencia
 
-Proyecto **educativo**. Puedes usarlo, modificarlo y compartirlo en contextos académicos y de aprendizaje.
+<p>
+  <a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=for-the-badge" alt="License: AGPL v3"/></a>
+</p>
 
-Si lo publicas o lo adaptas para tu centro, un enlace a este repositorio se agradece, pero no es obligatorio.
+Este proyecto está licenciado bajo la **[GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0)**.
+
+En resumen:
+
+- Puedes **usar, estudiar, modificar y distribuir** el software.
+- Si redistribuyes versiones modificadas (incluido el uso como servicio de red / SaaS), debes **publicar el código fuente** bajo la misma licencia AGPL-3.0.
+- El software se ofrece **sin garantía**.
+
+El texto completo de la licencia se encuentra en el archivo [`LICENSE`](./LICENSE) (o en [gnu.org/licenses/agpl-3.0](https://www.gnu.org/licenses/agpl-3.0)).
 
 ---
 
